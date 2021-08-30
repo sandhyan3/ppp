@@ -39,3 +39,10 @@ different to the merry_go_round.
 - [ ] item 1
 - [x] item 2 (it’s done!)
 - [ ] item 3
+---
+| P | Q | P and Q |
+| --- | --- | ---: |
+| T | T | T |
+| T | F | F |
+| F | T | F |
+| F | F | F |
