@@ -18,8 +18,11 @@ return sum
     * Rice
     * Beans
 * Come home
+---
 - Go to the store
 - Buy Food
     * Rice
     * Beans
 - Come home
+***
+ending
