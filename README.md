@@ -48,3 +48,5 @@ different to the merry_go_round.
 | F | F | F |
 ---
 ~~Opps, didn’t mean to do this.~~
+---
+The function is $f(x) = x^2$.
