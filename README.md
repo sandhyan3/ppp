@@ -30,3 +30,5 @@ ending
 [Google](https://www.google.com)
 ---
 lets go to amazon <https://www.amazon.com>
+---
+![Puppy](https://i.insider.com/5df126b679d7570ad2044f3e?width=1000&format=jpeg&auto=webp)
