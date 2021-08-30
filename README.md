@@ -26,4 +26,7 @@ return sum
 - Come home
 ***
 ending
+---
 [Google](https://www.google.com)
+---
+lets go to amazon <https://www.amazon.com>
