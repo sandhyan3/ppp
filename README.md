@@ -3,3 +3,6 @@ paragraph testing <br> yyyyyyyyyyyyyyyyyyyyyyyyyy
 >testing again
 >>multiple lines <br>
 >>testing againnn
+```
+sample code
+```
