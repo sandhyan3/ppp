@@ -6,3 +6,10 @@ paragraph testing <br> yyyyyyyyyyyyyyyyyyyyyyyyyy
 ```
 sample code
 ```
+```
+def sumIt (n):
+x = 0
+for x in range(0,n):
+sum += x
+return sum
+```
